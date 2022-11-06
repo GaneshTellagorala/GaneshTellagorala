@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GaneshTellagorala
-- 👀 I’m interested in Teacnology
+- 👀 I’m interested in Learning new Technologies
 - 🌱 I’m currently learning DS
 - 💞️ I’m looking to collaborate on dsa
 
